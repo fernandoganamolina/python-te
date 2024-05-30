@@ -1,0 +1,44 @@
+[
+    {
+    "sabor"   : "te negro",
+    "formato" : 500,
+    "precio"  : 5000,
+    "tiempo"  : 3,
+    "descrip" : "desayuno"
+    },
+    {
+    "sabor"   : "te negro",
+    "formato" : 300,
+    "precio"  : 3000,
+    "tiempo"  : 3,
+    "descrip" : "desayuno"
+    },
+    {
+    "sabor"   : "te verde",
+    "formato" : 500,
+    "precio"  : 5000,
+    "tiempo"  : 5,
+    "descrip" : "mediodia"
+    },
+    {
+    "sabor"   : "te verde",
+    "formato" : 300,
+    "precio"  : 3000,
+    "tiempo"  : 5,
+    "descrip" : "mediodia"
+    },
+    {
+    "sabor"   : "hierbas",
+    "formato" : 500,
+    "precio"  : 5000,
+    "tiempo"  : 6,
+    "descrip" : "atardecer"
+    },
+    {
+    "sabor"   : "hierbas",
+    "formato" : 300,
+    "precio"  : 3000,
+    "tiempo"  : 6,
+    "descrip" : "atardecer"
+    }
+]
